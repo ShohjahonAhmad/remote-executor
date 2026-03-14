@@ -28,6 +28,11 @@ mvn spring-boot:run
 
 Run from the project root in the host OS native shell (not WSL).
 
+## Tests
+```bash
+./mvnw test
+```
+
 ## API
 
 ### Submit a command
